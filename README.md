@@ -44,7 +44,7 @@
 * [CSS Grid Layout: getting to grips with the Chrome implementation](http://rachelandrew.co.uk/archives/2014/06/27/css-grid-layout-getting-to-grips-with-the-chrome-implementation/)
 
 ####Support
-* [How to enable support for Grid Layout in various browsers](http://igalia.github.io/css-grid-layout/enable.html)
+* [Enable CSS Grid Layout](http://igalia.github.io/css-grid-layout/enable.html)
 * [Caniuse](http://caniuse.com/#search=css%20grid%20layout)
 
 ####Polyfills
