@@ -1,23 +1,22 @@
-#Awesome CSS Grid Layout
+#Learning CSS Grid Layout
 
-> A curated list of CSS Grid Layout Module or only CSS Grid. Inspired by [Grid by Example](http://gridbyexample.com/).
+> List of resources to learn CSS Grid Layout Module or only CSS Grid.
+
+> Inspired by [Grid by Example](http://gridbyexample.com/).
 
 ##Table of Contents
-* [Specification](#w3c-specificatio)
+* [Specification and Working Group](#specification-and-working-group)
 * [Books](#books)
 * [Guides](#guides)
 * [Cross Browser](#cross-browser)
  * [Articles](#articles)
  * [Support](#support)
- * [Preprocessors in Action] (#preprocessors-in-action)
  * [Polyfills](#polyfills)
 * [Other Interesting Articles](#other-interesting-articles)
 * [Presentations](#presentations)
  * [Videos](#videos)
  * [Slides and Notes](#slides-and-notes)
 * [Podcasts](#podcasts)
-* [Tools] (#tools)
-* [Libraries and Frameworks] (#libraries-and-frameworks)
 * [Featured Projects](#featured-projects)
 * [Who to Follow](#who-to-follow)
 * [Contributing](#contributing)
@@ -26,7 +25,6 @@
 ##Specification and Working Group
 *This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a flexible or fixed predefined layout grid.*
 * [CSS Grid Layout Module Level 1 - W3C](http://www.w3.org/TR/css-grid-1/)
-
 * [CSS Grid posts on www-style - W3C](https://www.w3.org/Search/Mail/Public/search?type-index=www-style&index-type=t&keywords=%5bcss-grid%5d&search=Search)
 
 ##Books
@@ -48,9 +46,6 @@
 ####Support
 * [How to enable support for Grid Layout in various browsers](http://igalia.github.io/css-grid-layout/enable.html)
 * [Caniuse](http://caniuse.com/#search=css%20grid%20layout)
-
-<!-- ####Preprocessors in action
-* [?????](#) -->
 
 ####Polyfills
 * [CSS Grid Polyfill](https://github.com/FremyCompany/css-grid-polyfill)
@@ -76,15 +71,6 @@
 
 ##Podcasts
 * [CSS Grid Layout: The modern way of doing layout on the Web - O'Reilly Radar](http://radar.oreilly.com/2015/05/css-grid-layout-the-modern-way-of-doing-layout-on-the-web.html)
-
-<!--
-##Tools
-*Have a little help to create their projects :D*
-* [???](#)
-
-##Libraries and Frameworks
-* [???](#)
--->
 
 ##Featured Projects
 *Awesome projects about CSS Grid.*
