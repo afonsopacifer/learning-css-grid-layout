@@ -1,3 +1,4 @@
+![Learning CSS Grid Layout](img/cover.jpg)
 #Learning CSS Grid Layout
 
 > List of resources to learn CSS Grid Layout Module or only CSS Grid.
