@@ -83,6 +83,7 @@
 ##Who to Follow
 *People who talk about it.*
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
+* Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
 
 ##Contributing
 Want to contribute? [Follow these recommendations](contributing.md).
