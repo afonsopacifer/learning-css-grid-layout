@@ -25,6 +25,7 @@
 
 ##Specification and Working Group
 *This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a flexible or fixed predefined layout grid.*
+* [CSS Grid Layout Editor’s Draft - W3C](https://drafts.csswg.org/css-grid/)
 * [CSS Grid Layout Module Level 1 - W3C](http://www.w3.org/TR/css-grid-1/)
 * [CSS Grid posts on www-style - W3C](https://www.w3.org/Search/Mail/Public/search?type-index=www-style&index-type=t&keywords=%5bcss-grid%5d&search=Search)
 
