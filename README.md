@@ -68,6 +68,7 @@
 * [Tutorial and Documentation Reference - DevelopPHP](https://www.developphp.com/video/CSS/Grid-Layout-CSS-Tutorial-and-Documentation-Reference)
 
 ####Slides and Notes
+* [CSS Grid Layout: De volta para o futuro - 3° BarraJS](https://speakerdeck.com/afonsopacifer/css-grid-layout)
 * [Get on the CSS Grid! - Developers Google](http://sydcss-grid.appspot.com/#1)
 * [CSS Grid Layout - CSSconf EU 2014](http://rachelandrew.co.uk/presentations/css-grid)
 * [CSS Grid Layout - CSS Day 2015](http://www.slideshare.net/rachelandrew/css-day-css-grid-layout)
