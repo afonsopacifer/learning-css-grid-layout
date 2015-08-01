@@ -62,6 +62,7 @@
 *Tired of reading? See an interactive presentation and learn CSS Grid now.*
 
 ####Videos
+* [CSS Grid Layout is Just Around the Corner - CSS Conf 2015](https://www.youtube.com/watch?v=9js_5MjiGFo)
 * [CSS Grid Layout - CSS Day 2015](https://rachelandrew.co.uk/archives/2015/07/17/css-grid-layout-at-css-day/?utm_content=bufferaf3e7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Get on the CSS Grid! - Developers Google](https://developers.google.com/web/updates/2014/03/Get-on-the-CSS-Grid)
 * [CSS Grid Layout - CSSconf EU 2014](https://www.youtube.com/watch?v=GRexIOtGhBU)
@@ -87,6 +88,7 @@
 *People who talk about it.*
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
+* Manuel Rego [@regocas](https://twitter.com/regocas)
 
 ##Contributing
 Want to contribute? [Follow these recommendations](contributing.md).
