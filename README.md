@@ -7,6 +7,7 @@
 
 ##Table of Contents
 * [Specification and Working Group](#specification-and-working-group)
+* [Newsletter](#newsletter)
 * [Books](#books)
 * [Guides](#guides)
 * [Cross Browser](#cross-browser)
@@ -28,6 +29,10 @@
 * [CSS Grid Layout Editor’s Draft - W3C](https://drafts.csswg.org/css-grid/)
 * [CSS Grid Layout Module Level 1 - W3C](http://www.w3.org/TR/css-grid-1/)
 * [CSS Grid posts on www-style - W3C](https://www.w3.org/Search/Mail/Public/search?type-index=www-style&index-type=t&keywords=%5bcss-grid%5d&search=Search)
+
+##Newsletter
+* [CSS Layout News](http://csslayout.news/)
+* [CSS Weekly](http://css-weekly.com/)
 
 ##Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
