@@ -94,6 +94,7 @@
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
 * Manuel Rego [@regocas](https://twitter.com/regocas)
+* Diego Eis [@diegoeis](https://twitter.com/diegoeis)
 
 ##Contributing
 Want to contribute? [Follow these recommendations](contributing.md).
