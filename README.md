@@ -5,7 +5,7 @@
 
 > List of resources to learn CSS Grid Layout Module or only CSS Grid.
 
-> Inspired by [Grid by Example](http://gridbyexample.com/).
+> Inspired by [Rachel Andrew](https://rachelandrew.co.uk/).
 
 ## Table of Contents
 * [Specification and Working Group](#specification-and-working-group)
