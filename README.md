@@ -51,6 +51,7 @@
 #### Articles
 * [CSS Grid Layout 2014 Recap: Implementation Status](http://blogs.igalia.com/mrego/2015/01/08/css-grid-layout-2014-recap-implementation-status/)
 * [CSS Grid Layout: getting to grips with the Chrome implementation](http://rachelandrew.co.uk/archives/2014/06/27/css-grid-layout-getting-to-grips-with-the-chrome-implementation/)
+* [Deep Dive into Grid Layout Placement](http://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_27)
 
 #### Support
 * [Enable CSS Grid Layout](http://igalia.github.io/css-grid-layout/enable.html)
@@ -102,5 +103,5 @@
 ## Contributing
 Want to contribute? [Follow these recommendations](contributing.md).
 
-## Licence
-[MIT Licence](licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+## License
+[MIT License](license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
