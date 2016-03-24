@@ -38,6 +38,7 @@
 
 ## Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
+* [Get Ready For CSS Grid Layout - Rachel Andrew](https://abookapart.com/products/get-ready-for-css-grid-layout)
 
 ## Guides
 *Guides for developers or designer start their studies this wonderful technology.*
